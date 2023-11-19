@@ -1,3 +1,3 @@
 def call(){
-  sh 'We are installing maven'
+  sh 'echo We are installing maven'
 }
